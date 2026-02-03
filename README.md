@@ -1,6 +1,6 @@
 # Klasifikasi Kematangan Buah Sawit
 
-**Binary Classification (Matang vs Mentah) menggunakan Deep Learning**
+**Binary Image Classification menggunakan Deep Learning (CNN) dengan pendekatan Transfer Learning**
 
 ---
 
@@ -72,12 +72,8 @@ Pengembangan model dilakukan secara bertahap menggunakan pipeline berikut:
 
 ### Visualisasi Pipeline
 
-> Tempatkan visualisasi pipeline pengembangan model pada bagian ini.
+<img width="2752" height="1536" alt="Gemini_Generated_Image_1vqnic1vqnic1vqn" src="https://github.com/user-attachments/assets/3dab4d8b-bea3-4f12-8e62-36fd8cb7a450" />
 
-```text
-📁 docs/
- └── pipeline_model.png
-```
 ---
 
 ## Arsitektur Model
@@ -135,19 +131,11 @@ Evaluasi dilakukan menggunakan **Test Set** yang tidak pernah digunakan selama p
 
 ## Visualisasi Evaluasi Model
 
-> Tempatkan hasil visualisasi evaluasi model pada bagian ini.
+<img width="558" height="490" alt="image" src="https://github.com/user-attachments/assets/d0fc8f7e-4ef2-4f03-9b54-072d192fab4a" />
 
-```text
-📁 docs/
- ├── confusion_matrix.png
- ├── roc_curve.png
- └── training_history.png
-```
+<img width="590" height="490" alt="image" src="https://github.com/user-attachments/assets/00881f66-88ef-4348-938b-42405e18bf05" />
 
-```markdown
-![Confusion Matrix](docs/confusion_matrix.png)
-![Training History](docs/training_history.png)
-```
+<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/6bbe0843-4301-4493-8612-3867af76b1e1" />
 
 ---
 
